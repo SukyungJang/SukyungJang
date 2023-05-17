@@ -19,5 +19,5 @@ ___
 - **MBTI : ESFJ**
 - **E-Mail : jangrich77@naver.com**
 
-![Sukyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jangsukyung&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jangsukyung&layout=compact&theme=tokyonight)
+![Sukyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukyungJang&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukyungJang&layout=compact&theme=tokyonight)
