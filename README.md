@@ -1,6 +1,6 @@
 ### - introduce 👋
 ___
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangsukyung)](https://solved.ac/jangsukyung)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangcoding77)](https://solved.ac/jangcoding77)
 
 **개발자가 꿈**
 
