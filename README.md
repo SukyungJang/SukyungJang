@@ -4,8 +4,9 @@ ___
 
 **데이터 엔지니어, 데이터 사이언티스트, 데이터 애널리스트가 되기 위해 끊임없이 노력하고 있습니다.**
 <br/>
-- **Portfolio : <https://github.com/SukyungJang/Portfolio>**
-- **BLOG : <https://jangsukyung.github.io/>**
+- **포트폴리오 : <https://github.com/SukyungJang/Portfolio>**
+- **블로그 : <https://jangsukyung.github.io/>**
+- **이메일 : jangcoding77@gmail.com**
 
 ### - 사용할 수 있는 기술 📚
 ___
