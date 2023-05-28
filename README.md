@@ -2,7 +2,8 @@
 ___
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jangcoding77)](https://solved.ac/jangcoding77)
 
-**데이터 엔지니어, 데이터 사이언티스트, 데이터 애널리스트가 되기 위해 끊임없이 노력하고 있습니다.**
+**데이터 엔지니어, 데이터 사이언티스트, 데이터 애널리스트 <br/>
+더 나아가 빅데이터 전문가가 되기 위해 끊임없이 노력하고 있습니다.**
 <br/>
 - **포트폴리오 : <https://github.com/SukyungJang/Portfolio>**
 - **블로그 : <https://jangsukyung.github.io/>**
