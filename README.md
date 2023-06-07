@@ -7,8 +7,8 @@ ___
 <br/>
 - **포트폴리오 : <https://github.com/SukyungJang/Portfolio>**
 - **블로그 :**
-  - <https://sukyungjang.github.io/> (현재) 
-  - <https://jangsukyung.github.io/> (이전)
+  - **<https://sukyungjang.github.io/>** (현재) 
+  - **<https://jangsukyung.github.io/>** (이전)
 - **이메일 : jangcoding77@gmail.com**
 
 ### - 사용할 수 있는 기술 📚
