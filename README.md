@@ -37,7 +37,7 @@ ___
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) <br/>
 
-### - 깃허브 정보
+### - 깃허브 정보 123
 ___
 ![Sukyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=SukyungJang&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SukyungJang&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
